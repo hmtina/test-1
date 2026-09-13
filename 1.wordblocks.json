@@ -1,0 +1,40 @@
+{
+  "app": "word-blocks-sentence-scramble",
+  "version": 1,
+  "exportedAt": "2026-09-13T07:23:34.542Z",
+  "game": {
+    "id": "g_mtzhmdiul37fn",
+    "name": "1",
+    "mode": "one",
+    "showAnswers": "show",
+    "createdAt": 1789284211446,
+    "updatedAt": 1789284211446,
+    "sentences": [
+      {
+        "tokens": [
+          "I",
+          "am",
+          "happy",
+          "."
+        ],
+        "links": [
+          false,
+          false,
+          false
+        ],
+        "anchored": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "distractor": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    ]
+  }
+}
